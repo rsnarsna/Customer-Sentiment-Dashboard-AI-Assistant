@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Customer Sentiment Dashboard & AI Chat",
+  "description": "An advanced dashboard that analyzes customer reviews to generate sentiment trends, word clouds, and actionable summaries. It also features an AI chatbot with a high-power 'thinking mode' for complex queries.",
+  "requestFramePermissions": []
+}
